@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./Hero.scss";
+import "./hero.scss";
 import Trial from "../Trial/Trial";
 
 const Hero = ({ dataRecieved, setMovieSelected, loading, errorMsg }) => {
